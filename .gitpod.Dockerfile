@@ -2,7 +2,8 @@ FROM gitpod/workspace-full
 
 USER gitpod
 
-RUN  sudo apt-get install -yq libnss3 && \
+RUN  sudo apt-get -q update && \
+     sudo apt-get install -yq libnss3 && \
      sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.sh | sudo sh /dev/stdin 
     
 
