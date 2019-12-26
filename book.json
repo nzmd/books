@@ -10,5 +10,17 @@
         "sidebar": {
             "首页": "https://jieseclub.top"
         }
+    },
+    "pdf": {
+    "pageNumbers": true, 
+    "fontFamily": "Arial",
+    "fontSize": 12,
+    "paperSize": "a4",
+    "margin": {
+      "right": 62,
+      "left": 62,
+      "top": 56,
+      "bottom": 56
     }
+  }
 }
