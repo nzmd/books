@@ -1,4 +1,4 @@
 tasks:
-  - init: npm install
+  - command: npm install gitbook-cli -g
 image:
   file: .gitpod.Dockerfile
