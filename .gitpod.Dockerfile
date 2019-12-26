@@ -2,9 +2,9 @@ FROM gitpod/workspace-full
 
 USER gitpod
 
-RUN sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.sh | sudo sh /dev/stdin && \
-    sudo apt-get install -y \
-	libnss3
+RUN  sudo apt-get install -yq libnss3 && \
+     sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.sh | sudo sh /dev/stdin 
+    
 
 # Install custom tools, runtime, etc. using apt-get
 # For example, the command below would install "bastet" - a command line tetris clone:
