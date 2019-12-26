@@ -1,0 +1,23 @@
+{
+  "name": "books",
+  "version": "1.0.0",
+  "description": "阅读这本书，可以改变你的人生！",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d _book"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nzmd/books.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nzmd/books/issues"
+  },
+  "homepage": "https://github.com/nzmd/books#readme"
+}
