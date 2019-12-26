@@ -1,4 +1,12 @@
-tasks:
-  - command: npm install gitbook-cli -g
 image:
   file: .gitpod.Dockerfile
+
+# List the ports you want to expose and what to do when they are served. See https://www.gitpod.io/docs/43_config_ports/
+ports:
+  - port: 4000
+    onOpen: open-preview
+
+# List the start up tasks. You can start them in parallel in multiple terminals. See https://www.gitpod.io/docs/44_config_start_tasks/
+tasks:
+  - init: npm install gitbook-cli -g # runs during prebuild
+    command: gitbook serve
