@@ -1,0 +1,14 @@
+{
+    "title": "戒为良药",
+    "description": "戒为良药在线阅读、下载",
+    "author": "nzmd",
+    "output.name": "site",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "root": ".",
+    "links": {
+        "sidebar": {
+            "首页": "https://jieseclub.top"
+        }
+    }
+}
