@@ -20,6 +20,10 @@
 
 撸管有害是铁的事实，多看受害者案例即可明白真相，如果你只看无害论，那无害论就会遮蔽你的头脑，被似是而非的观点所蒙蔽。真相在戒色吧，真相在受害者案例里，不要听信所谓砖家的误导，让我们认清真相，让我们戒撸到底！加油！
 
-![德训篇.jpg](https://i.loli.net/2019/09/26/AaywqNOiRW5Pd7t.jpg)
-![戒者应该具备的70项品质.jpg](https://i.loli.net/2019/09/26/qZTF2a8sQRtPS6p.jpg)
-![戒色十规.jpg](https://i.loli.net/2019/09/26/scxeRdDC8zL3rbi.jpg)
+# 作者
+
+戒色吧飞翔
+
+# 戒色网站推荐
+
+[戒者录](https://jieseclub.top/)
