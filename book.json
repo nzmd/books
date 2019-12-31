@@ -11,6 +11,23 @@
             "首页": "https://jieseclub.top/articles/2019/11/29/1574994607547"
         }
     },
+    "plugins": [
+         "back-to-top-button",
+         "-lunr", 
+         "-search", 
+         "search-pro",
+         "github",
+         "splitter",
+         "baiduana"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/zhangjikai"
+        },
+        "baidu": {
+            "token": "6a50a03001d2382d192fd6d45827a32f"
+        }
+    },
     "pdf": {
     "pageNumbers": true, 
     "fontFamily": "Arial",
