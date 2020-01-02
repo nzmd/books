@@ -4,9 +4,11 @@
   "description": "阅读这本书，可以改变你的人生！",
   "main": "index.js",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d _book"
   },
   "repository": {
     "type": "git",

@@ -1,0 +1,43 @@
+{
+    "title": "戒为良药",
+    "description": "戒为良药在线阅读、下载",
+    "author": "nzmd",
+    "output.name": "site",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "root": ".",
+    "links": {
+        "sidebar": {
+            "首页": "https://jieseclub.top/articles/2019/11/29/1574994607547"
+        }
+    },
+    "plugins": [
+         "back-to-top-button",
+         "-lunr", 
+         "-search", 
+         "search-pro",
+         "github",
+         "splitter",
+         "baiduana"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/zhangjikai"
+        },
+        "baidu": {
+            "token": "6a50a03001d2382d192fd6d45827a32f"
+        }
+    },
+    "pdf": {
+    "pageNumbers": true, 
+    "fontFamily": "Arial",
+    "fontSize": 12,
+    "paperSize": "a4",
+    "margin": {
+      "right": 62,
+      "left": 62,
+      "top": 56,
+      "bottom": 56
+    }
+  }
+}
