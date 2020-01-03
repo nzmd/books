@@ -1,5 +1,7 @@
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/nzmd/books) 
 
+# 前言
+
 阅读这本书，可以改变你的人生！
 
 > 如果你伤得不深，这本书可以给你提供足够的警示，如果你伤得很深，这本书可以为你指明一条痊愈之路！—— 飞翔
@@ -9,6 +11,11 @@
 > 欲固寿命之原，莫先于色欲之戒也！—— 孙思邈
 
 > 恣其情欲 ，则命同朝露也！—— 孙思邈
+
+# 下载
+
+[pdf](http://nzmd.cn-sh2.ufileos.com/book.pdf)
+[epub](http://nzmd.cn-sh2.ufileos.com/book.epub)
 
 # 简介
 
@@ -22,7 +29,9 @@
 
 # 作者
 
-戒色吧飞翔
+[戒色吧飞翔](http://tieba.baidu.com/home/main/?un=%E6%AD%A3%E5%B7%B1%E5%8C%96%E4%BA%BA142857&ie=utf-8&id=tb.1.8f790ee0.uV2F0WaLI0UvVaHhM3K-Vw&fr=frs)
+
+> 因为改账号可能会被百度贴吧封闭，如果打不开可以自行到戒色吧寻找飞翔老师的最新账号
 
 # 戒色网站推荐
 

@@ -11,3 +11,5 @@ run/
 *.sw*
 *.un~
 _book/
+linux64/
+filemgr-linux64.tar.gz
