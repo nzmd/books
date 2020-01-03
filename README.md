@@ -15,6 +15,7 @@
 # 下载
 
 [pdf](http://nzmd.cn-sh2.ufileos.com/book.pdf)
+
 [epub](http://nzmd.cn-sh2.ufileos.com/book.epub)
 
 # 简介
@@ -31,7 +32,7 @@
 
 [戒色吧飞翔](http://tieba.baidu.com/home/main/?un=%E6%AD%A3%E5%B7%B1%E5%8C%96%E4%BA%BA142857&ie=utf-8&id=tb.1.8f790ee0.uV2F0WaLI0UvVaHhM3K-Vw&fr=frs)
 
-> 因为改账号可能会被百度贴吧封闭，如果打不开可以自行到戒色吧寻找飞翔老师的最新账号
+> 因为该账号可能会被百度贴吧封闭，如果打不开可以自行到戒色吧寻找飞翔老师的最新账号
 
 # 戒色网站推荐
 
