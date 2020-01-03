@@ -8,7 +8,7 @@
     "gh-pages": "^2.1.1"
   },
   "scripts": {
-    "deploy": "gh-pages -d _book"
+    "deploy": "gh-pages -d _book -r git@e.coding.net:nzm/jwly.git"
   },
   "repository": {
     "type": "git",
