@@ -36,3 +36,13 @@
 # 戒色网站推荐
 
 [戒者录](https://jieseclub.top/)
+
+# 说明
+
+本网站只是从贴吧里把飞翔老师的戒为良药整理出来方便广大戒友阅读下载，欢迎收藏分享给更多需要的戒友
+
+联系邮箱 jieseclub.top@qq.com
+
+# 公众号
+
+![微信公众号.png](https://i.loli.net/2020/01/03/tlFofKvjQ745rDC.png)
